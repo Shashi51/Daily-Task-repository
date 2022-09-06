@@ -1,0 +1,5 @@
+com\javainuse\controller\CommentController.class
+com\javainuse\model\Comment.class
+com\javainuse\repository\CommentRepository.class
+com\javainuse\exception\ResourceNotFoundException.class
+com\javainuse\CommentsApplication.class
